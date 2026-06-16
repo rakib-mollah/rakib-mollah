@@ -9,7 +9,7 @@ I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learn
 * 💬 &nbsp;Always open to collaborating on machine learning research, agentic workflows, or discussing NLP.
 * ✉️ &nbsp;Reach me via: [LinkedIn](https://linkedin.com/in/abdurrakibmollah) | | [Email](mailto:rakib1703115@gmail.com) | [Portfolio](https://rakib-mollah.github.io)
 
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" />
+<img align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450" />
 
 
 ### 🛠️ &nbsp;Skills & Technologies
