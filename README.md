@@ -12,10 +12,18 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/Python-47.08%25-000?logo=Python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-24.13%25-000?logo=Jupyter)
+![C++](https://img.shields.io/badge/C%2B%2B-10.35%25-000?logo=c%2B%2b&logoColor=00599C)
+![HTML](https://img.shields.io/badge/HTML-5.39%25-000?logo=HTML5)
+![JavaScript](https://img.shields.io/badge/JavaScript-4.92%25-000?logo=JavaScript)
+![CSS](https://img.shields.io/badge/CSS-4.19%25-000?logo=CSS3)
+![Java](https://img.shields.io/badge/Java-3.45%25-000?logo=openjdk)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-0.50%25-000?logo=Docker)
+![Shell](https://img.shields.io/badge/Shell-0.28%25-000?logo=GNU-Bash)
+![SCSS](https://img.shields.io/badge/SCSS-0.10%25-000?logo=Sass)
+![Ruby](https://img.shields.io/badge/Ruby-0.06%25-000?logo=Ruby)
+![Rust](https://img.shields.io/badge/Rust-0.04%25-000?logo=Rust)
 ### Technologies
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
