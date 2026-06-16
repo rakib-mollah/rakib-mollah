@@ -1,18 +1,16 @@
-<img alt="Night Coding" src="https://github.com/rakib-mollah/rakib-mollah/blob/main/assets/Hand%20Wave.gif?raw=true" width="40" align="left"/><h2>Hey there! I'm Md. Abdur Rakib Mollah</h2>
+<img alt="Night Coding" src="https://github.com/rakib-mollah/rakib-mollah/blob/main/assets/Hand%20Wave.gif?raw=true" width="40" align="left"/><h2>Hey there! I'm Rakib</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learning, and end-to-end AI deployment. 
 
-* 🚀 &nbsp;Currently working as a **Machine Learning Engineer-I** at **EUCLIDO.INC** (Waterloo, Ontario, Canada).
 * 🧠 &nbsp;Passionate about designing **RAG-driven autonomous agents**, **agentic orchestration**, and **knowledge graphs**.
 * 📚 &nbsp;Published researcher with papers in the **ACL Anthology** focusing on reasoning, stance detection, and sentiment analysis.
 * 💬 &nbsp;Always open to collaborating on machine learning research, agentic workflows, or discussing NLP.
-* ✉️ &nbsp;Reach me via: [LinkedIn](https://linkedin.com/in/abdurrakibmollah) | [Kaggle](https://www.kaggle.com/abdurrakibmollah) | [Email](mailto:rakib1703115@gmail.com) | [Portfolio](https://rakib-mollah.github.io)
+* ✉️ &nbsp;Reach me via: [LinkedIn](https://linkedin.com/in/abdurrakibmollah) | | [Email](mailto:rakib1703115@gmail.com) | [Portfolio](https://rakib-mollah.github.io)
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" />
 
----
 
 ### 🛠️ &nbsp;Skills & Technologies
 
@@ -21,17 +19,46 @@ I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learn
     <td valign="top" width="50%">
       <h4>🤖 Agentic AI & NLP</h4>
       <ul>
-        <li><b>Agentic AI:</b> LangGraph, LlamaIndex, CrewAI, AutoGen, LangChain</li>
-        <li><b>NLP & Document AI:</b> Document Understanding, NER, VLMs, OCR Pipelines</li>
-        <li><b>Databases:</b> Knowledge Graphs (Neo4j), Vector DBs (Pinecone, ChromaDB), PostgreSQL, MongoDB</li>
+        <li><b>Agentic AI & Orchestration:</b><br/>
+          <img src="https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+          <img src="https://img.shields.io/badge/LlamaIndex-000?style=flat-square" alt="LlamaIndex"/>
+          <img src="https://img.shields.io/badge/CrewAI-000?style=flat-square" alt="CrewAI"/>
+          <img src="https://img.shields.io/badge/AutoGen-000?style=flat-square" alt="AutoGen"/>
+          <img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+        </li>
+        <br/>
+        <li><b>NLP & Document AI:</b><br/>
+          <img src="https://img.shields.io/badge/Doc_Understanding-000?style=flat-square" alt="Doc Understanding"/>
+          <img src="https://img.shields.io/badge/NER-000?style=flat-square" alt="NER"/>
+          <img src="https://img.shields.io/badge/VLMs-000?style=flat-square" alt="VLMs"/>
+          <img src="https://img.shields.io/badge/OCR_Pipelines-000?style=flat-square" alt="OCR Pipelines"/>
+        </li>
+        <br/>
+        <li><b>Databases & Vector Stores:</b><br/>
+          <img src="https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j&logoColor=008CC1" alt="Neo4j"/>
+          <img src="https://img.shields.io/badge/Pinecone-000?style=flat-square" alt="Pinecone"/>
+          <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square" alt="ChromaDB"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+        </li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>💻 Programming & MLOps</h4>
+      <h4>💻 Others</h4>
       <ul>
-        <li><b>Languages:</b> Python, C++, JavaScript/TypeScript, SQL, Java</li>
-        <li><b>Frameworks:</b> PyTorch, TensorFlow, Sci-Kit Learn</li>
-        <li><b>Production & Cloud:</b> FastAPI, Flask, Docker, AWS (EC2, S3, Lambda), CI/CD, Git</li>
+        <li><b>Frameworks:</b><br/>
+          <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+          <img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/Sci--Kit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Sci-Kit Learn"/>
+        </li>
+        <br/>
+        <li><b>Production & Cloud:</b><br/>
+          <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+          <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=F90" alt="AWS"/>
+          <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+        </li>
       </ul>
     </td>
   </tr>
