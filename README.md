@@ -15,18 +15,18 @@ I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learn
 ### 🛠️ &nbsp;Skills & Technologies
 
 #### 🤖 Agentic AI & NLP
-* **Agentic AI & Orchestration:**
+* **Agentic AI & Orchestration:** <br>
   ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white)
   ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat-square)
   ![CrewAI](https://img.shields.io/badge/CrewAI-000?style=flat-square)
   ![AutoGen](https://img.shields.io/badge/AutoGen-000?style=flat-square)
   ![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=white)
-* **NLP & Document AI:**
+* **NLP & Document AI:** <br>
   ![Doc Understanding](https://img.shields.io/badge/Doc_Understanding-000?style=flat-square)
   ![NER](https://img.shields.io/badge/NER-000?style=flat-square)
   ![VLMs](https://img.shields.io/badge/VLMs-000?style=flat-square)
   ![OCR Pipelines](https://img.shields.io/badge/OCR_Pipelines-000?style=flat-square)
-* **Databases & Vector Stores:**
+* **Databases & Vector Stores:** <br>
   ![Neo4j](https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j&logoColor=008CC1)
   ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
   ![ChromaDB](https://img.shields.io/badge/ChromaDB-000?style=flat-square)
@@ -34,11 +34,11 @@ I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learn
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
 
 #### 💻 Others
-* **Frameworks:**
+* **Frameworks:** <br>
   ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
   ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-* **Production & Cloud:**
+* **Production & Cloud:** <br>
   ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688)
   ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
