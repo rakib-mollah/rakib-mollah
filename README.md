@@ -14,55 +14,36 @@ I am a **Machine Learning Engineer** with a strong foundation in NLP, Deep Learn
 
 ### 🛠️ &nbsp;Skills & Technologies
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🤖 Agentic AI & NLP</h4>
-      <ul>
-        <li><b>Agentic AI & Orchestration:</b><br/>
-          <img src="https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
-          <img src="https://img.shields.io/badge/LlamaIndex-000?style=flat-square" alt="LlamaIndex"/>
-          <img src="https://img.shields.io/badge/CrewAI-000?style=flat-square" alt="CrewAI"/>
-          <img src="https://img.shields.io/badge/AutoGen-000?style=flat-square" alt="AutoGen"/>
-          <img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-        </li>
-        <br/>
-        <li><b>NLP & Document AI:</b><br/>
-          <img src="https://img.shields.io/badge/Doc_Understanding-000?style=flat-square" alt="Doc Understanding"/>
-          <img src="https://img.shields.io/badge/NER-000?style=flat-square" alt="NER"/>
-          <img src="https://img.shields.io/badge/VLMs-000?style=flat-square" alt="VLMs"/>
-          <img src="https://img.shields.io/badge/OCR_Pipelines-000?style=flat-square" alt="OCR Pipelines"/>
-        </li>
-        <br/>
-        <li><b>Databases & Vector Stores:</b><br/>
-          <img src="https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j&logoColor=008CC1" alt="Neo4j"/>
-          <img src="https://img.shields.io/badge/Pinecone-000?style=flat-square" alt="Pinecone"/>
-          <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square" alt="ChromaDB"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-          <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-        </li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>💻 Others</h4>
-      <ul>
-        <li><b>Frameworks:</b><br/>
-          <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-          <img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
-          <img src="https://img.shields.io/badge/Sci--Kit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Sci-Kit Learn"/>
-        </li>
-        <br/>
-        <li><b>Production & Cloud:</b><br/>
-          <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-          <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
-          <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=F90" alt="AWS"/>
-          <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🤖 Agentic AI & NLP
+* **Agentic AI & Orchestration:**
+  ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat-square)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-000?style=flat-square)
+  ![AutoGen](https://img.shields.io/badge/AutoGen-000?style=flat-square)
+  ![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=white)
+* **NLP & Document AI:**
+  ![Doc Understanding](https://img.shields.io/badge/Doc_Understanding-000?style=flat-square)
+  ![NER](https://img.shields.io/badge/NER-000?style=flat-square)
+  ![VLMs](https://img.shields.io/badge/VLMs-000?style=flat-square)
+  ![OCR Pipelines](https://img.shields.io/badge/OCR_Pipelines-000?style=flat-square)
+* **Databases & Vector Stores:**
+  ![Neo4j](https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j&logoColor=008CC1)
+  ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-000?style=flat-square)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+
+#### 💻 Others
+* **Frameworks:**
+  ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+  ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit_Learn-000?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+* **Production & Cloud:**
+  ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688)
+  ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+  ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=F90)
+  ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
